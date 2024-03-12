@@ -1,0 +1,5 @@
+*.ar
+result.CFREQ_*
+header.CFREQ_*
+*.Summary.FULL
+*.Summary
